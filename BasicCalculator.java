@@ -22,7 +22,7 @@ public class BasicCalculator {
         System.out.print("Enter second number: ");
         double num2 = scanner.nextDouble();
 
-        double result = 0;
+        double result = 0000;
 
         switch (choice) {
             case 1:
